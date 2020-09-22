@@ -1,3 +1,8 @@
 #Primera prueba de gitignore
 #Procedo a ignorar los archivos de extensión 
 *.txt
+
+#Luego de haber eliminado a prueba.html del
+#repositorio remoto, lo ignoro para no tenerlo
+#en cuenta a la hora de hacer "git status" y "git add ."
+prueba.html
