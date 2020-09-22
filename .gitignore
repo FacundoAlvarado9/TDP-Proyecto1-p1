@@ -1,0 +1,3 @@
+#Primera prueba de gitignore
+#Procedo a ignorar los archivos de extensión 
+*.txt
